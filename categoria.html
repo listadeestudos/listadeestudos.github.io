@@ -1,0 +1,13 @@
+---
+layout: default
+permalink: /categoria/
+---
+{% for categoria in site.categories %}
+<div id="{{ categoria[0] | slugify }}">
+  <div class="flex-container">
+    {% for post in categoria[1] %}
+      {% include caixa.html %}
+    {% endfor %}
+  </div>
+</div>
+{% endfor %}

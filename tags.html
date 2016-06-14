@@ -1,0 +1,14 @@
+---
+layout: default
+permalink: /tags/
+---
+{% for tag in site.tags %}
+<div id="{{ tag[0] | slugify }}">
+  <h2>{{tag[0]}}</h2>
+  <div class="flex-container">
+    {% for post in tag[1] %}
+      {% include caixa.html %}
+    {% endfor %}
+  </div>
+</div>
+{% endfor %}
