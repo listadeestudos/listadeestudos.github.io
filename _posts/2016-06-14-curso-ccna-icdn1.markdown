@@ -5,7 +5,7 @@ category: infra
 tags: redes cisco ccna icnd1
 autor: Flyner Portugal
 valor: R$ 0,00
-link: /infraestrutura/2016/06/14/curso-ccna-icdn1.html
+link: /infra/2016/06/14/curso-ccna-icdn1.html
 ---
 São no total de 15 horas organizadas de forma estrutural para durar 7 semanas.
 Divididos em 107 videos pequenos que variam de 5 a 20 minutos cada.
