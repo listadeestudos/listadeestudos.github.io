@@ -2,7 +2,7 @@
 layout: post
 title: "Docker para desenvolvedores"
 category: infra
-tags: docker devops cloud
+tags: ["docker", "devops", "cloud", "automação"]
 autor: Rafael Gomes e Luis Armando Bianchin
 valor: Você define
 link: https://leanpub.com/dockerparadesenvolvedores
