@@ -3,7 +3,11 @@
     <a href="{{site.baseurl}}/categoria/#{{post.category}}"><span>{{ post.category | truncate: 10 }}</span></a>
   </span>
   <div class="conteudo">
-     <a class="post-link" href="{{ post.link }}">{{ post.title }}</a>
+    {% if post.link %} 
+      <a class="post-link" href="{{ post.link }}">{{ post.title }}</a>
+    {% else %}
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    {% endif %}
     Autor(a): {{ post.autor }} <br />
     Valor: {{ post.valor }} <br />
     Descrição:
