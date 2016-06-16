@@ -10,8 +10,8 @@
     {% endif %}
     Autor(a): {{ post.autor }} <br />
     Valor: {{ post.valor }} <br />
-    Descrição:
-    {{ post.content | newline_to_br | truncatewords: 20 }}
+    Descrição:  
+    {{ post.content | truncatewords: 20 }}
     {% assign palavras = post.content | number_of_words %}
     {% if palavras > 20 %}
       <span class="linkdesccompleta"><a href="{{ post.url | prepend: site.baseurl }}">descrição completa</a></span>

@@ -7,9 +7,9 @@ autor: Aurelio Marinho Jargas
 valor: R$ 59,00 (Versão Impressa)
 link: http://piazinho.com.br/
 ---
-Você procura uma sigla em um texto longo, mas não lembra direito quais eram as letras. Só lembra que era uma sigla de quatro letras. Simples, procure por [A-Z]{4}.
+Você procura uma sigla em um texto longo, mas não lembra direito quais eram as letras. Só lembra que era uma sigla de quatro letras. Simples, procure por `[A-Z]{4}`.
 
-Revisando aquela tese de mestrado, você percebe que digitou errado o nome daquele pesquisador alemão famoso. E foram várias vezes. Escreveu Miller, Mueller e Müler, quando na verdade era Müller. Que tal corrigir todos de uma vez? Fácil, use a expressão M(i|ue|ü)ll?er.
+Revisando aquela tese de mestrado, você percebe que digitou errado o nome daquele pesquisador alemão famoso. E foram várias vezes. Escreveu Miller, Mueller e Müler, quando na verdade era Müller. Que tal corrigir todos de uma vez? Fácil, use a expressão `M(i|ue|ü)ll?er`.
 
 Que tal encontrar todas as palavras repetidas repetidas em seu texto? Ou garantir que há um espaço em branco após todas as vírgulas e os pontos finais?
 

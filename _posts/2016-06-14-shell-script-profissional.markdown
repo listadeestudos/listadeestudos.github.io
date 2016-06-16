@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shell Script profissional"
-category: infra
+category: dev
 tags: ["automação", "shell script"]
 autor: Aurelio Marinho Jargas
 valor: R$ 85,00
