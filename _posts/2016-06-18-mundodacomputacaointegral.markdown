@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mundo da Computação Integral"
-category: Computação
+category: infra
 tags: ["Linux", "FreeBSD", "Redes", "Servidores"]
 autor: Reginaldo
 valor: R$ 0,00
