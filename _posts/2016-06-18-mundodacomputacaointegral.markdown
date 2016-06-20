@@ -2,7 +2,7 @@
 layout: post
 title: "Mundo da Computação Integral"
 category: infra
-tags: ["Linux", "FreeBSD", "Redes", "Servidores"]
+tags: ["linux", "freebsd", "redes", "servidores"]
 autor: Reginaldo
 valor: R$ 0,00
 link: https://mundodacomputacaointegral.blogspot.com.br
